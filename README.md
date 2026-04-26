@@ -1,6 +1,6 @@
 # Hi, I'm Levente  👋
 
-**Software Engineer & Aspiring Technical Seller** | [cite_start]I bridge the gap between complex software architecture and business revenue by speaking the language of both engineers and stakeholders. [cite: 4, 5, 62]
+**Software Engineer & Aspiring Technical Seller** | I bridge the gap between complex software architecture and business revenue by speaking the language of both engineers and stakeholders.
 
 ---
 
